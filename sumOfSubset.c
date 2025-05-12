@@ -17,6 +17,7 @@ void sumOfSubsets(int set[] , int subset[] , int n , int subsetSize ,
         total_nodes++;
         if(nodeSum == targetSum ){
             print(subset , subsetSize);
+            return ;
         }
 
         //no elements left:

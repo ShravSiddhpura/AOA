@@ -1,3 +1,8 @@
+//define find func
+//define union func
+// now main function
+
+
 #include <stdio.h>
 
 #define V 5
